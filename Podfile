@@ -1,8 +1,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios,'8.0'
+platform :ios, '8.0'
+
 
 target "LMLiveStreaming" do
-
-pod 'LFLiveKit', '~> 1.5.2'
-
+pod 'LFLiveKit', '~> 1.8.0'
 end
